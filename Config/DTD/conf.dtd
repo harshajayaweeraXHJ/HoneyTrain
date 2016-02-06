@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DTD for config -->
+
+<!ELEMENT config ( settings?, entry* ) >
+
+<!ATTLIST config version CDATA #FIXED "1.0">
+
+<!ELEMENT settings (#PCDATA) >
+
+<!ELEMENT entry (#PCDATA) >
+
+<!ATTLIST entry key CDATA #REQUIRED>

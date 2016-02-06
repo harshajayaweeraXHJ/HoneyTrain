@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Settings</comment>
+<entry key="serverIPP">0.0.0.0</entry>
+<entry key="FTPport">21</entry>
+<entry key="Au_Username">enduser</entry>
+<entry key="Au_Password">1234</entry>
+<entry key="localDownloadPath">C:\\demoad</entry>
+</properties>
